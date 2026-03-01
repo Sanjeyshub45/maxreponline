@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "1063847637677",
+        "project_id": "maxreponline",
+        "storage_bucket": "maxreponline.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1063847637677:android:6aab86973b9690e4670c24",
+                "android_client_info": {
+                    "package_name": "com.fnext.maxrep"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1063847637677-kmbte238koub21c4c4traatkrf606kd1.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.fnext.maxrep",
+                        "certificate_hash": "2b70c32404c4aff8baaa3b2b6ec6c0ed23144244"
+                    }
+                },
+                {
+                    "client_id": "1063847637677-lb26j4b66r2h5f9d67lokopu0codcep3.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDr1kYOkQD4kUdROKsX9Vag7avwOIs2txY"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1063847637677-lb26j4b66r2h5f9d67lokopu0codcep3.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
